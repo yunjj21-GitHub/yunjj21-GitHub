@@ -1,7 +1,7 @@
-### 👋 Hi there!<br>
-I'm a computer science student. 👩‍💻<br>
-I'm interested in android development and coding.<br>
-I'm not good enough, but I want to grow up by studying.<br>
+### 👋 Hi there! <br>
+I'm a junior android developer. 👩‍💻<br>
+Currently, I'm in charge of mobile development in the retirement pension sector of Kyobo Information and Communication. <br>
+I'm not good enough, but I want to grow up by studying. <br>
 I want to be a great android developer! ✨<br>
 <br>
 ### 🔥 The things I'm studying
