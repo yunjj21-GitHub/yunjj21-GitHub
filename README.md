@@ -1,7 +1,7 @@
 ### 👋 Hi there!<br>
-I'm a android developer. 👩‍💻<br>
-I am currently working at Kyobo Information and Communication as a android developer.<br>
-I am participating in the insurance and bank mobile application development project.<br>
+I'm an android developer. 👩‍💻<br>
+I am currently working at Kyobo Information and Communication as an android developer.<br>
+I am participating in a lot of insurance and bank mobile application development projects.<br>
 I don't think I have enough development skills.<br>
 So, I wanna learn and experience many things and grow into a great android developer! ✨<br><br>
 
